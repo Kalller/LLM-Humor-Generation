@@ -1,0 +1,10 @@
+{
+  "judge_model": "google/gemma-2-9b-it",
+  "comparison": "Llama_RAG vs Qwen_RAG",
+  "llama_wins": 419,
+  "qwen_wins": 779,
+  "ties": 2,
+  "errors": 0,
+  "total_evaluated": 1200,
+  "overall_winner": "Qwen"
+}
