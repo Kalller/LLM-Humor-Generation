@@ -1,0 +1,1509 @@
+{
+  "ids": {
+    "en_0001": {
+      "type": "headline",
+      "input_original": "Ryanair to cut 1 million more passenger seats in Spain",
+      "generated_joke": "I guess Ryanair decided it's cheaper to fly passengers off course than book them directly onto flights."
+    },
+    "en_0002": {
+      "type": "headline",
+      "input_original": "Looted by Nazis, a 17th-Century Painting Resurfaces. But Not for Long.",
+      "generated_joke": "Some guy's ancestor was artfully robbed by fascists and now the painting gets to enjoy an existential crisis about its short shelf life – talk about identity issues."
+    },
+    "en_0003": {
+      "type": "headline",
+      "input_original": "Analysis: Spotlight on childcare reforms reveals how far there is to go",
+      "generated_joke": "They did an analysis about childcare reform and realized there's still work to be done – guess we shouldn't have left our kids alone with Google Maps after all."
+    },
+    "en_0004": {
+      "type": "headline",
+      "input_original": "Do body wipes actually work? Experts weigh in",
+      "generated_joke": "I use body wipes and experts tell me I'm wrong – guess my sweat glands aren't consulting with them."
+    },
+    "en_0005": {
+      "type": "headline",
+      "input_original": "Is Meghan’s Netflix series another ‘exercise in narcissism’?",
+      "generated_joke": "Meghan Markle made her own Netflix special – turns out she's really good at talking about herself too."
+    },
+    "en_0006": {
+      "type": "headline",
+      "input_original": "These colleges are welcoming pets in dorms to reduce students’ stress and anxiety",
+      "generated_joke": "Some colleges think your pet can help with finals stress – it's either genius therapy or secretly getting them free roommates."
+    },
+    "en_0007": {
+      "type": "headline",
+      "input_original": "Taipei City council in the dog house over Chinese-made patrol robot",
+      "generated_joke": "It seems Taipei's city council got caught red-handed with an imported patrol bot – guess it wasn't paws-itively made-in-Taiwan."
+    },
+    "en_0008": {
+      "type": "headline",
+      "input_original": "BOM forecasts wet spring as severe storm barrels towards nation's south",
+      "generated_joke": "The BOM forecasted rain all over Australia this year – it was basically a weather report warning Australians about themselves during spring showers."
+    },
+    "en_0009": {
+      "type": "headline",
+      "input_original": "Nonalcoholic beer and mocktails can help people stay sober or drink less, but are not for everyone",
+      "generated_joke": "So you've got non-alcoholic beer – it's like being told your participation trophy was made from disappointment instead of gold."
+    },
+    "en_0010": {
+      "type": "headline",
+      "input_original": "Massachusetts cranberry bogs are being given a second life as vibrant wetlands",
+      "generated_joke": "Some places are so desperate to go green – Massachusetts turned its old cranberry bogs into nature preserves. Now everyone's saving water while also making some pretty bitter fruit complain about gentrification."
+    },
+    "en_0011": {
+      "type": "headline",
+      "input_original": "U.S. Open foes Jelena Ostapenko and Taylor Townsend get into heated post-match row",
+      "generated_joke": "There's an U.S. tennis match where two players got into a huge argument afterwards – I'm surprised it didn't end with them being separated by umpires while simultaneously receiving consolation medals."
+    },
+    "en_0012": {
+      "type": "headline",
+      "input_original": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
+      "generated_joke": "I'm breathing deeply today – and apparently so are you. We're swallowing about sixty-eight thousand pieces of plastic every day; no wonder nobody's getting anything done."
+    },
+    "en_0013": {
+      "type": "headline",
+      "input_original": "SpaceX deploys first mock Starlink satellites on 10th test flight",
+      "generated_joke": "\"Someone's been practicing space delivery – and it wasn't Jeff Bezos' mom.\""
+    },
+    "en_0014": {
+      "type": "headline",
+      "input_original": "Love Island USA' winner Amaya reveals she and Bryan broke up",
+      "generated_joke": "Some reality shows teach us couples will break up eventually when given enough cameras, producers, and strangers wearing swimwear; I guess Love Island was onto something with its experiment – literally."
+    },
+    "en_0015": {
+      "type": "headline",
+      "input_original": "He paid triple the going rate for solar panels. Now he warns people to research door-to-door contracts",
+      "generated_joke": "Some guy bought expensive solar panels from someone knocking on his door and now he's warning us all about impulse buys – talk about a delayed discount alert."
+    },
+    "en_0016": {
+      "type": "headline",
+      "input_original": "Why Arthur Ashe Stadium and the US Open are so unique and sometimes divisive",
+      "generated_joke": "They're making tennis fans pay hundreds of dollars for Centre Court seats but you can get free therapy sessions watching some dude yell at an umpire from those same stands – talk about value added."
+    },
+    "en_0017": {
+      "type": "headline",
+      "input_original": "Blockbuster Canadian romance author Carley Fortune announces 5th novel",
+      "generated_joke": "Carley Fortune's having so much success with her romances that she needs help figuring out where one ends and another begins – hence book number five."
+    },
+    "en_0018": {
+      "type": "headline",
+      "input_original": "Nvidia Sales Jump 56%, a Sign the A.I. Boom Isn’t Slowing Down",
+      "generated_joke": "Artificial Intelligence sales skyrocketed by 56%, proving AI isn't slowing down – but also confirming humans aren't buying anything else anymore either."
+    },
+    "en_0019": {
+      "type": "headline",
+      "input_original": "Furniture, architecture, fashion: 3 designers explain how AI is transforming everything",
+      "generated_joke": "Three designers told me what's changing in furniture, fashion and design - but honestly I'm pretty sure my grandma knew all this after her Alexa started suggesting interior decorators."
+    },
+    "en_0020": {
+      "type": "headline",
+      "input_original": "Italian apples get their own dedicated cable car ride",
+      "generated_joke": "It turns out Italy loves its fruit so much it built them public transportation – now we know where all our tax dollars should really go."
+    },
+    "en_0021": {
+      "type": "headline",
+      "input_original": "Denzel Washington reveals he doesn’t watch movies anymore",
+      "generated_joke": "\"Denzel Washington said he stopped watching movies? Probably too many actors gave him bad acting advice.\""
+    },
+    "en_0022": {
+      "type": "headline",
+      "input_original": "How are the new students feeling on the first day of school?",
+      "generated_joke": "I heard today's the big day – the first day of school where kids get free emotional trauma and crippling student loans forever."
+    },
+    "en_0023": {
+      "type": "headline",
+      "input_original": "Alcaraz Vanquishes Demons of Last Year",
+      "generated_joke": "Some tennis player named Alcaraz won this year after having nightmares about last season – so I guess you could say he's making progress."
+    },
+    "en_0024": {
+      "type": "headline",
+      "input_original": "Why eradicating the Asian hornet is taken so seriously",
+      "generated_joke": "They take the Asian hornet threat very seriously – probably because it's one pest problem you can't call your mom to come fix from Japan."
+    },
+    "en_0025": {
+      "type": "headline",
+      "input_original": "The untold history of one of Australia's most iconic photos",
+      "generated_joke": "There was this famous Australian photo nobody ever talks about – it was taken right after everyone realized there wasn't any actual gold down under either."
+    },
+    "en_0026": {
+      "type": "headline",
+      "input_original": "Two Pakistan towns face flood risk if river barrage crumbles, officials say",
+      "generated_joke": "If there's one thing more fun than watching rivers overflow, it's government officials telling you what might happen when dams break – now with 100 percent guaranteed odds!"
+    },
+    "en_0027": {
+      "type": "headline",
+      "input_original": "Rocky waters ahead for British artist stopping sales to customers across the pond",
+      "generated_joke": "So I heard there's a British artist selling art across an ocean and things aren't going well - sounds like my ex-girlfriend buying plane tickets over here whenever we had a fight."
+    },
+    "en_0028": {
+      "type": "headline",
+      "input_original": "Watch: Arizona ‘haboob’ dust storm causes disruption",
+      "generated_joke": "\"Some parts of America get so dusty you need a visa.\""
+    },
+    "en_0029": {
+      "type": "headline",
+      "input_original": "From boom to ban: The rise and fall of India's betting apps",
+      "generated_joke": "India created so many betting apps – you know what happened next, now we all have Indian bookies instead of personal therapists."
+    },
+    "en_0030": {
+      "type": "headline",
+      "input_original": "Why the egusi? A Nigerian melon seed's journey into space",
+      "generated_joke": "Someone sent an African squash seed into space as part of some experiment and now it's either growing aliens or more Nigerians with agricultural ideas."
+    },
+    "en_0031": {
+      "type": "headline",
+      "input_original": "Does removing mustache hair lead to thicker hair growth?",
+      "generated_joke": "I tried growing my beard once – turns out you can't beat the price by shaving it off your face and putting it directly on top."
+    },
+    "en_0032": {
+      "type": "headline",
+      "input_original": "Coach Hugo Broos announces final squad for Bafana Bafana's World Cup qualifiers",
+      "generated_joke": "It seems Coach Hugo Broos was having trouble picking his team – I guess it's tough choosing between 'players' and unemployed relatives."
+    },
+    "en_0033": {
+      "type": "headline",
+      "input_original": "I found weed in the 3rd grade': Jacob Balshin | New Wave Of Standup",
+      "generated_joke": "\"I'm starting comedy like this guy did – by getting high before I was old enough to pay attention.\""
+    },
+    "en_0034": {
+      "type": "headline",
+      "input_original": "Venus Williams’ fuzzy tennis racket case was a major serve",
+      "generated_joke": "I love watching Venus Williams hit with her rackets – one serves an ace and the other gets away from parking tickets."
+    },
+    "en_0035": {
+      "type": "headline",
+      "input_original": "These British rock stars never conquered America. They’re now playing to a sold-out Chicago stadium",
+      "generated_joke": "Some English bands thought conquering America was their birthright – turns out it's more like a transferable parking ticket."
+    },
+    "en_0036": {
+      "type": "headline",
+      "input_original": "How chatbots are making us speak like management consultants",
+      "generated_joke": "I signed up with AI customer support once – I guess my issue was'resolved.' Now it sounds weird when I talk about real problems."
+    },
+    "en_0037": {
+      "type": "headline",
+      "input_original": "Alcaraz cruises into third round with commanding win over Bellucci",
+      "generated_joke": "Tennis pro Alcaraz dominated his opponent so badly he probably doesn't need three rounds anymore – and that's what everyone tells their therapist these days."
+    },
+    "en_0038": {
+      "type": "headline",
+      "input_original": "Most people in Denmark and the Netherlands have a doctor. Here's what Canada can learn",
+      "generated_joke": "Canada should probably start handing out doctors instead – you know, as part of its universal healthcare plan... along with free maple syrup prescriptions."
+    },
+    "en_0039": {
+      "type": "headline",
+      "input_original": "Calling rental income 'unearned' is the final insult from this Government",
+      "generated_joke": "They're calling rental income 'unearned'. Because nothing says earned like getting your rent money without doing anything except telling people you own it now."
+    },
+    "en_0040": {
+      "type": "headline",
+      "input_original": "Russian and Chinese submarines conduct first-ever joint patrol in Pacific",
+      "generated_joke": "Russia and China teamed up with their subs – now they're really'sea-ing' eye-to-eye about world domination."
+    },
+    "en_0041": {
+      "type": "headline",
+      "input_original": "How will Shamrock Rovers approach Santa Clara mission?",
+      "generated_joke": "Shamrock Rovers' strategy against an American team from near Silicon Valley? They're going to Google 'em and hope their bus breaks down somewhere along I-101."
+    },
+    "en_0042": {
+      "type": "headline",
+      "input_original": "Former elite athlete takes home $100,000 landscape art prize",
+      "generated_joke": "There's an award worth $100,000 for something you can find outside your house and then pay someone else to arrange – I'm pretty sure my landscaping skills would win that thing no problem."
+    },
+    "en_0043": {
+      "type": "headline",
+      "input_original": "Taylor Swift’s romantic travails were the soundtrack to mine. What does her engagement mean for fans’ love lives?",
+      "generated_joke": "I think I'm engaged with Taylor Swift's love life more than my own – apparently her latest album tracks are the only updates coming from mine."
+    },
+    "en_0044": {
+      "type": "headline",
+      "input_original": "UK beef farmers scramble to feed hungry herds",
+      "generated_joke": "Beef farmers in the UK are struggling to find food for their cows – I guess you could say it's a moo-diculous problem."
+    },
+    "en_0045": {
+      "type": "headline",
+      "input_original": "Grand jury declines to indict man who threw a sandwich at federal officer in the capital",
+      "generated_joke": "Someone's lunch was stronger than his alibi."
+    },
+    "en_0046": {
+      "type": "headline",
+      "input_original": "In under three hours, China’s bullet trains whisk travelers back 1,200 years in time",
+      "generated_joke": "I've always wondered when Chinese technology would take us backward instead of forward – now we know it's only two and half train rides away.\""
+    },
+    "en_0047": {
+      "type": "headline",
+      "input_original": "The buses, trams and trains that have kept London running for 200 years",
+      "generated_joke": "London's public transportation system seems impressive – considering it was invented before most passengers' sense of personal space."
+    },
+    "en_0048": {
+      "type": "headline",
+      "input_original": "The Deion Sanders Effect: Why colleges are hiring former NFL stars as coaches",
+      "generated_joke": "Colleges are paying millions to hire retired football players like Deion Sanders as coaches – it's amazing what you can buy with someone else's guaranteed student loans."
+    },
+    "en_0049": {
+      "type": "headline",
+      "input_original": "Zimbabwean accountant's estate sequestrated for R17 million fraud",
+      "generated_joke": "There's an African guy whose accounting skills got him seized by authorities – I guess he really 'numbered his days' wrong."
+    },
+    "en_0050": {
+      "type": "headline",
+      "input_original": "Antarctic expedition to search for bird flu on Heard Island",
+      "generated_joke": "They're sending an Antarctic expedition to search for bird flu on Heard Island – it's like searching everywhere else but Google wasn't working out."
+    },
+    "en_0051": {
+      "type": "headline",
+      "input_original": "Jason Kelce celebrates Taylor Swift and Travis Kelce's 'proposal heard 'round the world'",
+      "generated_joke": "Jason Kelce celebrated when his brother proposed marriage via microphone – it was a momentous occasion since we've all seen worse Tinder bios."
+    },
+    "en_0052": {
+      "type": "headline",
+      "input_original": "Why Watership Down has no place in my list of the greatest animated films",
+      "generated_joke": "I'm only upset about one animated film – Watership Down's constant reminder I didn't finish it yet."
+    },
+    "en_0053": {
+      "type": "headline",
+      "input_original": "Where have all the crabs gone? How development is squeezing out southern Malaysia’s sea people",
+      "generated_joke": "There's this beach town where apparently you can't find any crabs unless someone decides to build another resort there – irony alert – now it's like finding them in a bait trap."
+    },
+    "en_0054": {
+      "type": "headline",
+      "input_original": "‘I turned down $20m to do Terminator 3. I can’t be bought, dude’: Ridley Scott on directing, Daleks and ... cherry jam",
+      "generated_joke": "Some director just turned down twenty million dollars over what was probably an acting role he already regretted doing, meanwhile you're here watching this free comedy special – no judgment."
+    },
+    "en_0055": {
+      "type": "headline",
+      "input_original": "Does the multiverse exist?",
+      "generated_joke": "Some physicist says there's a universe out there where I'm funny. But honestly, it probably exists alone too."
+    },
+    "en_0056": {
+      "type": "headline",
+      "input_original": "Taylor Swift’s engagement ring: Find out what expert at Rome’s oldest jewelry store thinks it cost",
+      "generated_joke": "Some expert thought Taylor Swift's huge diamond was worth almost as much money as she makes from all those tiny diamonds sold at her stores."
+    },
+    "en_0057": {
+      "type": "headline",
+      "input_original": "What Can I Wear on a Plane Besides Leggings and Sweats?",
+      "generated_joke": "\"You're asking what else you can wear besides leggings? On an airplane – honestly – anything more than your dignity.\""
+    },
+    "en_0058": {
+      "type": "headline",
+      "input_original": "Japan releases AI-generated Mount Fuji eruption video to encourage Tokyo residents to be prepared",
+      "generated_joke": "\"A Japanese government agency created an artificially simulated volcanic eruption near Mt Fuji – mainly because real disasters rarely get media attention unless it's happening downtown.\""
+    },
+    "en_0059": {
+      "type": "headline",
+      "input_original": "Discover the Bellville Business Expo: a hub for innovation and networking",
+      "generated_joke": "There's this thing called an expo where rich entrepreneurs pretend to be interested in you so they can sell something else by Friday evening."
+    },
+    "en_0060": {
+      "type": "headline",
+      "input_original": "How to make sure you lose fat, not muscle, when you’re on a diet",
+      "generated_joke": "People are so worried about losing muscle mass during diets – I'm pretty sure most guys would trade those abs for an extra hour of sleep every morning."
+    },
+    "en_0061": {
+      "type": "headline",
+      "input_original": "Bad Bunny reveals why he was 'a little' nervous about acting in 'Caught Stealing'",
+      "generated_joke": "There's an actor so bad he got caught stealing scenes – Bad Bunny was pretty worried about his acting debut role."
+    },
+    "en_0062": {
+      "type": "headline",
+      "input_original": "What ‘sunburn cinema’ tells us about the Great British holiday",
+      "generated_joke": "Brits love going abroad, but you know what's even sunnier than their holidays? Their skin after those holidays – and we're paying to watch it."
+    },
+    "en_0063": {
+      "type": "headline",
+      "input_original": "Big hits, great saves: B.C. players shine at inaugural Women's Para Hockey World Championships",
+      "generated_joke": "Some countries started professional women’s para-hockey tournaments and I guess we can say it was a slam dunk – except everyone kept falling out of their chairs instead."
+    },
+    "en_0064": {
+      "type": "headline",
+      "input_original": "What can you expect from Electric Picnic 2025?",
+      "generated_joke": "Festival season brings an annual reminder: what happens when Ireland runs out of surprise acts and gives us whatever's left after every decent Irish musician retires again."
+    },
+    "en_0065": {
+      "type": "headline",
+      "input_original": "Grizzly bear attacks travel blogger’s tent",
+      "generated_joke": "\"Some guy got mauled by a grizzly – he should've stuck with Yelp.\""
+    },
+    "en_0066": {
+      "type": "headline",
+      "input_original": "It could be a La Niña winter. Here’s what your region might see",
+      "generated_joke": "La Nina winters mean it's back to layering up... said no one with central heating ever – until this week when their utility bill arrives."
+    },
+    "en_0067": {
+      "type": "headline",
+      "input_original": "Is entrepreneur Bryan Johnson going to live forever?",
+      "generated_joke": "It looks like this guy thinks he's immortal until someone asks him to pay his healthcare bills."
+    },
+    "en_0068": {
+      "type": "headline",
+      "input_original": "Klamath: America's largest river restoration project",
+      "generated_joke": "They're restoring America's biggest river – it was starting to think it'd never look better than when Trump tweeted about its banks."
+    },
+    "en_0069": {
+      "type": "headline",
+      "input_original": "Forget Philly: Locals and tourists chow down on moose and reindeer cheesesteaks in northern Sweden",
+      "generated_joke": "It turns out if you're really sick of trying cheese steaks from Philly – Sweden offers the same meal but with more hypothermia risk attached."
+    },
+    "en_0070": {
+      "type": "headline",
+      "input_original": "A famous Australian song almost didn't sound the way it does today",
+      "generated_joke": "It turns out Australia's national anthem was originally going to be performed by Barry Crocker – same guy who starred in Priscilla Queen of the Desert. Guess we got lucky that wasn’t the one where he had a good voice."
+    },
+    "en_0071": {
+      "type": "headline",
+      "input_original": "Family planned to emigrate before securing Tuath Housing Cost Rental property",
+      "generated_joke": "I heard some Americans were so desperate to leave Ireland that even finding an apartment made them want to stay – that's dedication.\""
+    },
+    "en_0072": {
+      "type": "headline",
+      "input_original": "Asian hornet nest located in Cork city following hunt",
+      "generated_joke": "Ireland now has another reason for bees to buzz off – it's got Asian hornets too...and they're hanging out in Cork."
+    },
+    "en_0073": {
+      "type": "headline",
+      "input_original": "Computer science degrees were once a golden ticket. Now, jobs are hard to find",
+      "generated_joke": "Computer science degrees used to guarantee you'd land your dream job – now it's like buying tickets to every Marvel movie: great idea until opening night arrives."
+    },
+    "en_0074": {
+      "type": "headline",
+      "input_original": "Robot rabbits the latest tool in battle to control invasive Burmese pythons in Everglades",
+      "generated_joke": "Florida's solution to its python problem: robots wearing cute costumes – no more killing them with hammers."
+    },
+    "en_0075": {
+      "type": "headline",
+      "input_original": "AI detects sound of frog species threatened in Southern California",
+      "generated_joke": "\"I heard AI detected some frogs being endangered in SoCal and I'm like 'No wonder – those guys can't afford housing either.'\""
+    },
+    "en_0076": {
+      "type": "headline",
+      "input_original": "Your AI therapist might be illegal soon. Here’s why",
+      "generated_joke": "It turns out your AI therapist isn't legal – and also won’t make any sense if you quit paying it after one session."
+    },
+    "en_0077": {
+      "type": "headline",
+      "input_original": "Denmark Apologizes After Birth Control Scandal in Greenland",
+      "generated_joke": "A country apologized after birth control got out of hand – somewhere north."
+    },
+    "en_0078": {
+      "type": "headline",
+      "input_original": "The nuclear legacy hidden in your body",
+      "generated_joke": "It turns out some people still live near Chernobyl and we're running low on hazmat suits – I guess our nuclear legacy includes you now."
+    },
+    "en_0079": {
+      "type": "headline",
+      "input_original": "Shame and disgust': Why we find this STI so hard to talk about",
+      "generated_joke": "People still can't admit when they've got herpes – either literally, or more likely after a Tinder date."
+    },
+    "en_0080": {
+      "type": "headline",
+      "input_original": "Sarah Mitton stripped of Diamond League Trophy after winning throw disqualified",
+      "generated_joke": "There's this sportswoman named Sarah Mitton - she won an award and then they took it away from her, probably saying something like 'you didn't quite meet our standards', sounding suspiciously similar to every girl you dated in high school."
+    },
+    "en_0081": {
+      "type": "headline",
+      "input_original": "How Taylor Swift can plan her wedding (and Travis Kelce will also be there)",
+      "generated_joke": "Taylor Swift's planning committee consists entirely of songwriters forced by lawyers to come up with lists instead of writing lyrics. So it seems like she’s getting married and Travis Kelce’ll likely get an obnoxious verse about it too."
+    },
+    "en_0082": {
+      "type": "headline",
+      "input_original": "Youth employment and sustainability at the heart of South Africa's G20 presidency",
+      "generated_joke": "South Africa got picked as president of the wealthy countries' club – it makes sense when you consider how quickly they can give up hope too."
+    },
+    "en_0083": {
+      "type": "headline",
+      "input_original": "Drainage crews stayed to protect New Orleans during Katrina. What they’d face was unimaginable",
+      "generated_joke": "Hurricane season had nothing on these drainage crew guys – they weathered Katrina and went through bureaucratic red tape afterward."
+    },
+    "en_0084": {
+      "type": "headline",
+      "input_original": "Reeves considers tax raid on landlords",
+      "generated_joke": "Some guy named Reeves wants to take money from landlords and give it away as charity – which he'll probably call 'his taxes'."
+    },
+    "en_0085": {
+      "type": "headline",
+      "input_original": "That ominous two-note theme and a malfunctioning mechanical shark: Jaws at 50",
+      "generated_joke": "It's been fifty years since Jaws came out – we've gone from great white sharks with issues to actual tank failures, so progress hasn't exactly bitten us yet."
+    },
+    "en_0086": {
+      "type": "headline",
+      "input_original": "Exclusive: TikTok owner ByteDance sets valuation at over $330 billion as revenue grows, sources say",
+      "generated_joke": "TikTok's worth more than most countries now, except it doesn't own its users – those belong to China."
+    },
+    "en_0087": {
+      "type": "headline",
+      "input_original": "The pH of the ocean is changing, and it could erode sharks’ teeth",
+      "generated_joke": "People think oceans rising due to climate change won't affect much – until you hear about some sharks losing their bite.\""
+    },
+    "en_0088": {
+      "type": "headline",
+      "input_original": "Recognise the warning signs: how overlooked burnout can sabotage your career",
+      "generated_joke": "\"Apparently my job was secretly an endurance event all along and I didn't get medals for showing up.\""
+    },
+    "en_0089": {
+      "type": "headline",
+      "input_original": "Taylor Swift’s engagement is a great advert for the cult of celebrity",
+      "generated_joke": "Some celeb got engaged and it's basically an infomercial now – marry us if you want your whole life flashed before millions twice.\""
+    },
+    "en_0090": {
+      "type": "headline",
+      "input_original": "Bland, easy to follow, for fans of everything: what has the Netflix algorithm done to our films?",
+      "generated_joke": "Netflix recommends movies so bland you might as well watch an entire catalog if you're already awake."
+    },
+    "en_0091": {
+      "type": "headline",
+      "input_original": "Breakthrough in Australian soft plastics recycling",
+      "generated_joke": "An Aussie breakthrough means someone's finally figured out how to recycle last week's takeaway containers – you're welcome."
+    },
+    "en_0092": {
+      "type": "headline",
+      "input_original": "British expats in France hit with shock pension tax bills",
+      "generated_joke": "\"A group of British expats got slammed with unexpected tax bills from the French government – I guess retirement doesn't mean you're immune from sticker shock.\""
+    },
+    "en_0093": {
+      "type": "headline",
+      "input_original": "Racism row erupts at US Open after ‘no class, no education’ insult",
+      "generated_joke": "There's apparently an argument about racism going down during tennis – talk about serving up controversy."
+    },
+    "en_0094": {
+      "type": "headline",
+      "input_original": "Punches and slaps: Watch as Mexican Senate debate ends in brawl",
+      "generated_joke": "Mexican politicians debating – it's like my family reunion dinner but without the buffet and with actual laws involved."
+    },
+    "en_0095": {
+      "type": "headline",
+      "input_original": "‘A perfect symbiosis’: planting vines and other ways hot cities are creating cool spaces",
+      "generated_joke": "Cities think you can fight pollution by calling it 'cool'."
+    },
+    "en_0096": {
+      "type": "headline",
+      "input_original": "Tennis Handshakes, Controversy and the Spectacle of Elite Sport",
+      "generated_joke": "They're calling it controversy when an elite tennis player gives another one his hand back after they've both shaken hands – essentially, a game within a match involving etiquette."
+    },
+    "en_0097": {
+      "type": "headline",
+      "input_original": "How Tesla and Waymo's radically different robotaxi approaches will shape the industry",
+      "generated_joke": "\"Tesla thinks it can replace human drivers with robots while Waymo wants to teach them meditation – proof you'll never get fired either way.\""
+    },
+    "en_0098": {
+      "type": "headline",
+      "input_original": "SARS cracks down on influencers: Free trips, brand deals now count as taxable income",
+      "generated_joke": "So it turns out if you're an influencer getting free stuff from brands, what was previously considered cool and exciting – tax-free swag - is basically just theft when audited by SARS."
+    },
+    "en_0099": {
+      "type": "headline",
+      "input_original": "Forecasters warn of tornadoes in US in coming days",
+      "generated_joke": "There's going to be a bunch of tornados this week and forecasters warned everyone – I guess it'd suck if you didn't get notified about your house getting sucked away."
+    },
+    "en_0100": {
+      "type": "headline",
+      "input_original": "‘Something has to change’: Manchester United plunges to new low against fourth-division Grimsby Town",
+      "generated_joke": "Manchester United's recent performance says it all - something definitely needs changing... like their entire staff and business model since probably last century was one possible option."
+    },
+    "en_0101": {
+      "type": "words",
+      "input_original": "spray, chair",
+      "generated_joke": "\"I went to IKEA and got frustrated when they ran low on their 'Spray Chair Finish' product – clearly no one told them about the importance of'sitting pretty.'\""
+    },
+    "en_0102": {
+      "type": "words",
+      "input_original": "hammer, banana",
+      "generated_joke": "\"I went to therapy after hitting myself over the head repeatedly while trying to figure out why someone put bananas in their toolbox – turned out they were going for 'fruitful' solutions.\""
+    },
+    "en_0103": {
+      "type": "words",
+      "input_original": "move, fridge",
+      "generated_joke": "\"I moved into this new apartment because my old place was freezing – figuratively speaking. Now, my new 'chill' vibe feels pretty literal when my ice box gets really loud.\""
+    },
+    "en_0104": {
+      "type": "words",
+      "input_original": "hammer, pumpkin",
+      "generated_joke": "\"I tried to carve my pumpkin into a masterpiece, but honestly, now all I have is a chunked-out squash – seems like every project starts like fixing stuff at home.\""
+    },
+    "en_0105": {
+      "type": "words",
+      "input_original": "peel, pumpkin",
+      "generated_joke": "\"I bought a pumpkin thinking its peel would make for great pie crust – now all I've got left are seeds.\""
+    },
+    "en_0106": {
+      "type": "words",
+      "input_original": "microwave, book",
+      "generated_joke": "\"I checked out my microwave's instruction manual – which looked suspiciously like every book in college. Guess I learned nothing new.\""
+    },
+    "en_0107": {
+      "type": "words",
+      "input_original": "spray, door",
+      "generated_joke": "Why did I bring spray paint when visiting friends at their new house? Because someone spilled coffee all over their door."
+    },
+    "en_0108": {
+      "type": "words",
+      "input_original": "measure, pizza",
+      "generated_joke": "\"I went to order extra cheese on this new artisanal pie they measured so precisely – turns out 'artisan' means you pay them more for making small slices.\""
+    },
+    "en_0109": {
+      "type": "words",
+      "input_original": "unplug, fridge",
+      "generated_joke": "\"I unplug from social media because my friend asked me if his new picture looks okay after he posted – all anyone wanted was someone to tell him whether their fridge would still be stocked when they died.\""
+    },
+    "en_0110": {
+      "type": "words",
+      "input_original": "weigh, phone",
+      "generated_joke": "\"Why did I weigh my phone? Now I know which social media platform has the most drama in our household.\""
+    },
+    "en_0111": {
+      "type": "words",
+      "input_original": "deseed, tomato",
+      "generated_joke": "People who ask me if they should deseed their tomatoes before eating them usually don't understand what a commitment to salad-making looks like."
+    },
+    "en_0112": {
+      "type": "words",
+      "input_original": "spray, cup",
+      "generated_joke": "\"I went on a date where we shared a cup together – except when she saw me eating dessert, suddenly our entire conversation became one awkward spray.\""
+    },
+    "en_0113": {
+      "type": "words",
+      "input_original": "close, blender",
+      "generated_joke": "When life gets close, some people prefer a blender – literally, they get personal. Others opt for therapy, where everything stays on the surface... until payment due date arrives."
+    },
+    "en_0114": {
+      "type": "words",
+      "input_original": "hammer, tomato",
+      "generated_joke": "\"Why did my friend bring a hammer when he came over for dinner? He wanted to smash his competition in the tomato-growing contest.\""
+    },
+    "en_0115": {
+      "type": "words",
+      "input_original": "blend, pumpkin",
+      "generated_joke": "\"I blended pumpkin into my coffee this morning – now all I have left is regret.\""
+    },
+    "en_0116": {
+      "type": "words",
+      "input_original": "microwave, laptop",
+      "generated_joke": "\"My microwave started acting weird when I used it as a prop for this presentation on my laptop – now all our meeting notes have been reheated.\""
+    },
+    "en_0117": {
+      "type": "words",
+      "input_original": "drill, eggs",
+      "generated_joke": "People in construction always tell me to keep steady when drilling through walls – except apparently not hard enough for some poor eggs nearby."
+    },
+    "en_0118": {
+      "type": "words",
+      "input_original": "peel, coconut",
+      "generated_joke": "\"I tried peeling back years of relationships, only to find myself stuck in another shell – apparently, it takes more than one coconut to crack through me.\""
+    },
+    "en_0119": {
+      "type": "words",
+      "input_original": "cut, shoes",
+      "generated_joke": "Why did I take scissors to my shoes? Apparently they were due for a cut above the rest."
+    },
+    "en_0120": {
+      "type": "words",
+      "input_original": "weigh, watermelon",
+      "generated_joke": "\"I went to the farmer's market and asked them to weigh me down – they offered me for free if I'd eat this entire watermelon.\""
+    },
+    "en_0121": {
+      "type": "words",
+      "input_original": "hammer, fridge",
+      "generated_joke": "\"I bought one at IKEA last week. When they asked me if I wanted 'assembly required,' honestly, all I thought about was whether mine needs assembly after every takeout.\""
+    },
+    "en_0122": {
+      "type": "words",
+      "input_original": "open, blender",
+      "generated_joke": "\"I opened my blender this morning only to realize my breakfast wasn't more complicated – my marriage was.\""
+    },
+    "en_0123": {
+      "type": "words",
+      "input_original": "cut, coconut",
+      "generated_joke": "\"I finally found someone who cut me some slack after eating an entire coconut by myself – they said I had a nutty excuse.\""
+    },
+    "en_0124": {
+      "type": "words",
+      "input_original": "measure, bacon",
+      "generated_joke": "People who claim they 'can't' cook often have trouble measuring bacon because their scale isn't calibrated for ego."
+    },
+    "en_0125": {
+      "type": "words",
+      "input_original": "drop, fridge",
+      "generated_joke": "\"I put milk in the drop box by mistake. Now there's just a small chance someone will return it from the fridge.\""
+    },
+    "en_0126": {
+      "type": "words",
+      "input_original": "measure, pumpkin",
+      "generated_joke": "People always tell me to'measure up,' especially after eating three pumpkins at Thanksgiving dinner – they mean be bigger."
+    },
+    "en_0127": {
+      "type": "words",
+      "input_original": "cut, laptop",
+      "generated_joke": "\"I spent hours cutting down my screen time on my laptop – now all I have left is a dull desktop.\""
+    },
+    "en_0128": {
+      "type": "words",
+      "input_original": "wash, keyboard",
+      "generated_joke": "\"I've been trying to wash away my guilt after accidentally spilling coffee all over my keyboard.\""
+    },
+    "en_0129": {
+      "type": "words",
+      "input_original": "shake, tree",
+      "generated_joke": "\"I went to shake hands with a tree salesman yesterday – all we did was branch out on our differences.\""
+    },
+    "en_0130": {
+      "type": "words",
+      "input_original": "roll, potato",
+      "generated_joke": "\"I was at the casino trying to roll my luck when someone yelled 'Potato!' – apparently they were betting on me.\""
+    },
+    "en_0131": {
+      "type": "words",
+      "input_original": "throw, phone",
+      "generated_joke": "\"My wife loves when our kids throw their phones at me – apparently 'dad' isn't in her contacts.\""
+    },
+    "en_0132": {
+      "type": "words",
+      "input_original": "throw, orange",
+      "generated_joke": "\"I went to throw an orange peel away, but ended up in therapy because apparently throwing was also an excuse for all the oranges we were having issues.\""
+    },
+    "en_0133": {
+      "type": "words",
+      "input_original": "fry, phone",
+      "generated_joke": "\"You know why being on phone for hours feels like getting fried? Because eventually someone's gonna hang up and leave you crispy.\""
+    },
+    "en_0134": {
+      "type": "words",
+      "input_original": "hammer, microwave",
+      "generated_joke": "\"My husband thinks he's so handy in the kitchen because he uses his trust issues as leverage when arguing over who cooked dinner – 'Don't microwave me, I was hammered.'"
+    },
+    "en_0135": {
+      "type": "words",
+      "input_original": "unplug, phone",
+      "generated_joke": "\"My phone battery died today. Guess someone finally learned to unplug me.\""
+    },
+    "en_0136": {
+      "type": "words",
+      "input_original": "weigh, pumpkin",
+      "generated_joke": "\"I weighed myself after eating pumpkin pie – now I'm feeling a little hollow.\""
+    },
+    "en_0137": {
+      "type": "words",
+      "input_original": "measure, microwave",
+      "generated_joke": "\"I measured cooking time incorrectly – now my microwave thinks I hate leftovers.\""
+    },
+    "en_0138": {
+      "type": "words",
+      "input_original": "weigh, tomato",
+      "generated_joke": "\"I went to therapy after realizing all my relationships weighed as heavily on me as those fresh tomatoes weigh down my plate.\""
+    },
+    "en_0139": {
+      "type": "words",
+      "input_original": "measure, watermelon",
+      "generated_joke": "\"I measured myself against this year's watermelon harvest – let's just say I came in second... and last.\""
+    },
+    "en_0140": {
+      "type": "words",
+      "input_original": "throw, spoon",
+      "generated_joke": "\"I tried throwing spaghetti at someone with a spoon – all I got was sauce on me.\""
+    },
+    "en_0141": {
+      "type": "words",
+      "input_original": "microwave, shoes",
+      "generated_joke": "\"I finally found something my microwave and shoes have in common – neither one ever lasts longer than six months.\""
+    },
+    "en_0142": {
+      "type": "words",
+      "input_original": "throw, shirt",
+      "generated_joke": "\"You know who throws really well? People wearing matching shirts at costume parties.\""
+    },
+    "en_0143": {
+      "type": "words",
+      "input_original": "measure, oven",
+      "generated_joke": "\"I love when recipe books tell me 'accurately measures' ingredients. Yeah, because that also applies to oven temperatures.\""
+    },
+    "en_0144": {
+      "type": "words",
+      "input_original": "drink, egg",
+      "generated_joke": "\"I went to order breakfast at a diner this morning. Turns out they don't have any drinks for sale until after 11am – which pretty much made me feel like an egg.\""
+    },
+    "en_0145": {
+      "type": "words",
+      "input_original": "throw, cookie",
+      "generated_joke": "\"I was trying to throw away cookies at work, but nobody threw anything back – sounds about right for HR.\""
+    },
+    "en_0146": {
+      "type": "words",
+      "input_original": "blend, phone",
+      "generated_joke": "I've been on this dating app for months – basically, my profile picture blends into the background until someone asks me questions. Now my phone has more conversations than I do."
+    },
+    "en_0147": {
+      "type": "words",
+      "input_original": "hammer, car",
+      "generated_joke": "\"I finally figured out why car insurance premiums have been increasing – they've started deducting for every time my significant other drives me crazy.\""
+    },
+    "en_0148": {
+      "type": "words",
+      "input_original": "drill, bottle",
+      "generated_joke": "\"I tried drilling into this bottle with a drill – guess it really says something about our social lives when we think shaking it will work instead.\""
+    },
+    "en_0149": {
+      "type": "words",
+      "input_original": "cut, towel",
+      "generated_joke": "\"I bought one towel after cutting costs – now all I have left is damp relationships.\""
+    },
+    "en_0150": {
+      "type": "words",
+      "input_original": "hammer, shoes",
+      "generated_joke": "\"I started wearing shoes made by hammering metal into shape – now I've got some sole-searching questions about where I went wrong.\""
+    },
+    "en_0151": {
+      "type": "words",
+      "input_original": "hammer, egg",
+      "generated_joke": "\"I bought eggs at this farm-to-table store. Their delivery method – hit them really hard on their heads until they crack open? That sounds suspiciously like overzealous customer service.\""
+    },
+    "en_0152": {
+      "type": "words",
+      "input_original": "hammer, phone",
+      "generated_joke": "\"I asked customer service if they could give me more time because I smashed my phone – they said sorry, 'you've been hammered.'\""
+    },
+    "en_0153": {
+      "type": "words",
+      "input_original": "wash, cucumber",
+      "generated_joke": "\"I washed all the cucumbers for this salad – now they're in debt.\""
+    },
+    "en_0154": {
+      "type": "words",
+      "input_original": "shake, table",
+      "generated_joke": "When people put their drink on the table after shaking hands – priorities suddenly shift."
+    },
+    "en_0155": {
+      "type": "words",
+      "input_original": "wash, watermelon",
+      "generated_joke": "\"I washed my hands after eating watermelon because apparently 'cut' isn't short for cleanliness.\""
+    },
+    "en_0156": {
+      "type": "words",
+      "input_original": "spray, book",
+      "generated_joke": "\"I went to visit my grandma in her garden; she was reading a book on 'gardening tips,' which included advice to spray seeds. Turns out it wasn't meant literally.\""
+    },
+    "en_0157": {
+      "type": "words",
+      "input_original": "wash, microwave",
+      "generated_joke": "People wash their hands after touching microwaves because they think even more bacteria will survive the heat."
+    },
+    "en_0158": {
+      "type": "words",
+      "input_original": "open, fridge",
+      "generated_joke": "\"My therapist said opening the fridge late at night is a sign of procrastination. Apparently being hungry isn't.\""
+    },
+    "en_0159": {
+      "type": "words",
+      "input_original": "move, microwave",
+      "generated_joke": "\"I love when people move in next door – they get so excited to show off their new microwave as if we care about reheating last night's leftovers.\""
+    },
+    "en_0160": {
+      "type": "words",
+      "input_original": "measure, shoes",
+      "generated_joke": "\"I went shopping for new shoes and had them measured – now they're really into their personal space.\""
+    },
+    "en_0161": {
+      "type": "words",
+      "input_original": "cut, car",
+      "generated_joke": "\"My insurance rates have been rising because our city decided to cut funding for road repair – guess who else has their brakes on?\""
+    },
+    "en_0162": {
+      "type": "words",
+      "input_original": "wash, window",
+      "generated_joke": "\"I recently washed some windows at home. Now every time someone asks if anyone wants to go outside, all they get is dirty looks.\""
+    },
+    "en_0163": {
+      "type": "words",
+      "input_original": "wash, tomato",
+      "generated_joke": "\"I went to the laundromat expecting only dirty clothes would be washed there. But when they accidentally dumped a bucket on their washing machine – which happened to have been stocked from someone who owned a tomato farm – now people come for more than clean underwear.\""
+    },
+    "en_0164": {
+      "type": "words",
+      "input_original": "throw, flower",
+      "generated_joke": "\"I went to garden therapy – basically someone throws seeds at you.\""
+    },
+    "en_0165": {
+      "type": "words",
+      "input_original": "wash, rock",
+      "generated_joke": "\"I've been feeling really worn down lately – apparently I need some therapy that involves scrubbing away at life on this emotional rock.\""
+    },
+    "en_0166": {
+      "type": "words",
+      "input_original": "peel, corn",
+      "generated_joke": "\"I went to therapy because life was making me feel like onion peel – layered problems. But then they told me corn is also related.\""
+    },
+    "en_0167": {
+      "type": "words",
+      "input_original": "weigh, book",
+      "generated_joke": "\"I went to therapy because even a self-help book weighs more than my problems.\""
+    },
+    "en_0168": {
+      "type": "words",
+      "input_original": "spray, microwave",
+      "generated_joke": "\"I sprayed cooking spray in my microwave before reheating last night – now everything tastes greasier than my ex.\""
+    },
+    "en_0169": {
+      "type": "words",
+      "input_original": "roll, carrot",
+      "generated_joke": "\"I went on a roll at the grocery store until they ran out of carrots – now even my snacks are being chopped down.\""
+    },
+    "en_0170": {
+      "type": "words",
+      "input_original": "cut, keyboard",
+      "generated_joke": "\"I cut back on social media, now all I get from this keyboard is occasional typos.\""
+    },
+    "en_0171": {
+      "type": "words",
+      "input_original": "weigh, egg",
+      "generated_joke": "\"I decided to weigh myself after eating eggs for breakfast. Now I feel cracked under pressure.\""
+    },
+    "en_0172": {
+      "type": "words",
+      "input_original": "wash, fridge",
+      "generated_joke": "\"Why did I end up washing dishes in front of my new fridge? Now we've got frost on our marriage.\""
+    },
+    "en_0173": {
+      "type": "words",
+      "input_original": "unplug, blender",
+      "generated_joke": "\"I've been feeling really burnt out lately – pretty sure if I unplug this blender first thing tomorrow morning.\""
+    },
+    "en_0174": {
+      "type": "words",
+      "input_original": "weigh, banana",
+      "generated_joke": "\"I went on a scale after eating three bananas for breakfast – now I weigh more than my apologies.\""
+    },
+    "en_0175": {
+      "type": "words",
+      "input_original": "wash, door",
+      "generated_joke": "\"I washed my hands after opening this door – because apparently washing your soul wasn't enough.\""
+    },
+    "en_0176": {
+      "type": "words",
+      "input_original": "measure, flower",
+      "generated_joke": "\"I measured my gardening skills by watching YouTube tutorials – now every flower looks suspiciously like a weed.\""
+    },
+    "en_0177": {
+      "type": "words",
+      "input_original": "weigh, bottle",
+      "generated_joke": "Tried weighing down this empty bottle – now even its emptiness feels depressing."
+    },
+    "en_0178": {
+      "type": "words",
+      "input_original": "cut, phone",
+      "generated_joke": "\"I cut ties with this phone service after they cut off my internet for no reason.\""
+    },
+    "en_0179": {
+      "type": "words",
+      "input_original": "wash, apple",
+      "generated_joke": "\"I went apple-picking last weekend – now I have dirty apples.\""
+    },
+    "en_0180": {
+      "type": "words",
+      "input_original": "cut, pumpkin",
+      "generated_joke": "\"You know why cutting into this pumpkin was so therapeutic? Because after all these years of marriage, I still hadn't figured out which knife cuts closest.\""
+    },
+    "en_0181": {
+      "type": "words",
+      "input_original": "wash, towel",
+      "generated_joke": "\"I washed myself so thoroughly after working from home all week; now even my towel thinks I smell good.\""
+    },
+    "en_0182": {
+      "type": "words",
+      "input_original": "hammer, keyboard",
+      "generated_joke": "\"I bought one of those new keyboards made from recycled materials. Now every time I type, I feel guilty – someone else had to hammer their problems into this thing.\""
+    },
+    "en_0183": {
+      "type": "words",
+      "input_original": "spray, table",
+      "generated_joke": "\"I set off my fire alarm spray at home thinking it was a smart cleaning solution. Now every time I go near the table there’s sirens blaring – it seems even the inanimate objects want me kicked out.\""
+    },
+    "en_0184": {
+      "type": "words",
+      "input_original": "cut, rock",
+      "generated_joke": "\"My barber said he'd cut me loose – now I'm rocking the 'high-maintenance' look.\""
+    },
+    "en_0185": {
+      "type": "words",
+      "input_original": "cut, book",
+      "generated_joke": "\"I finally read a book on cutting costs – now all I want to cut is its page count.\""
+    },
+    "en_0186": {
+      "type": "words",
+      "input_original": "shake, hair",
+      "generated_joke": "\"I went to get my hair cut – which was honestly nothing more than an excuse for me to shake loose some cash.\""
+    },
+    "en_0187": {
+      "type": "words",
+      "input_original": "shake, lemon",
+      "generated_joke": "When life gives me lemons, I shake them really hard – because that's all anyone needs in this chaotic world."
+    },
+    "en_0188": {
+      "type": "words",
+      "input_original": "measure, carrots",
+      "generated_joke": "People who claim they can only eat organic carrots might actually be measuring their self-importance by inches."
+    },
+    "en_0189": {
+      "type": "words",
+      "input_original": "hammer, bottle",
+      "generated_joke": "I took my broken phone apart with a hammer, which explains why it works fine in one piece now – mainly because I've been carrying around this useless glass bottle as its replacement."
+    },
+    "en_0190": {
+      "type": "words",
+      "input_original": "wash, blender",
+      "generated_joke": "People wash their hands after using a blender because we've all been guilty at some point – blending our problems into one big mess."
+    },
+    "en_0191": {
+      "type": "words",
+      "input_original": "close, fridge",
+      "generated_joke": "\"My neighbour finally got me fired as his key holder – now our friendship is close enough for him to come over anytime... straight into my fridge.\""
+    },
+    "en_0192": {
+      "type": "words",
+      "input_original": "wash, oven",
+      "generated_joke": "\"I finally mastered cooking in my oven – all it takes now is one cycle under'self-cleaning' mode.\""
+    },
+    "en_0193": {
+      "type": "words",
+      "input_original": "hammer, coconut",
+      "generated_joke": "\"I went on vacation and brought my trust issues along – we both cracked under pressure when I tried hitting them over the head with a coconut hammer.\""
+    },
+    "en_0194": {
+      "type": "words",
+      "input_original": "measure, laptop",
+      "generated_joke": "\"Why did the laptop go on a calorie-cutting spree? Because its battery life doesn't measure up.\""
+    },
+    "en_0195": {
+      "type": "words",
+      "input_original": "shake, tomato",
+      "generated_joke": "\"I went to the bar and ordered a whiskey on the rocks. After shaking hands with the bartender over the price, we both started sweating because he was worried about crushing his tomato crops.\""
+    },
+    "en_0196": {
+      "type": "words",
+      "input_original": "wash, chair",
+      "generated_joke": "\"I washed this chair so many times I think it has Stockholm syndrome now – every time someone asks me to sit in it.\""
+    },
+    "en_0197": {
+      "type": "words",
+      "input_original": "hammer, watermelon",
+      "generated_joke": "\"I bought a watermelon at Costco last week. Now every time someone asks me if I want to smash something, all I have in mind is smashing this $20 melon.\""
+    },
+    "en_0198": {
+      "type": "words",
+      "input_original": "spray, eggs",
+      "generated_joke": "\"My cat has finally learned to spray; now she adds insult to injury after knocking over our eggs.\""
+    },
+    "en_0199": {
+      "type": "words",
+      "input_original": "shake, flower",
+      "generated_joke": "\"My aunt tried to help me improve my gardening skills by teaching me the secret to making flowers shake off pests – turns out she meant dusting them.\""
+    },
+    "en_0200": {
+      "type": "words",
+      "input_original": "move, tree",
+      "generated_joke": "\"I finally found something in life that moves slower than me – my neighbor's tree.\""
+    },
+    "en_0201": {
+      "type": "headline",
+      "input_original": "Cooking Recipes, advice and inspiration for everyday cooking, special occasions and more.",
+      "generated_joke": "People love reading about recipes – I'm pretty sure that's why everyone spent an hour scrolling through yours after dinner last night thinking 'you know what would've made this better?'"
+    },
+    "en_0202": {
+      "type": "headline",
+      "input_original": "5 key takeaways from the latest presidential debate Analysis and Comment",
+      "generated_joke": "So I watched another endless presidential debate – basically an experiment to see if you can train Americans with attention spans longer than those debates last."
+    },
+    "en_0203": {
+      "type": "headline",
+      "input_original": "Business live Euro and Paris stock market slides as French prime minister resigns",
+      "generated_joke": "French politics crashed faster than its economy today – now we know what'resigning' means when you're living next door to it."
+    },
+    "en_0204": {
+      "type": "headline",
+      "input_original": "David Muir reports on daughter thanking nurse who saved dad at Bills game",
+      "generated_joke": "Some journalist's kid thanked his nurse hero after she saved him during a football game, which says all you need about where journalism starts today – with the announcer’s kids getting rescued while we're still covering scores."
+    },
+    "en_0205": {
+      "type": "headline",
+      "input_original": "11 movies you can safely watch with your parents — and grandparents — and all truly enjoy",
+      "generated_joke": "My grandma loved my Netflix password but said I'm too old for my movie suggestions – guess I shouldn't expect those Oscar nods anytime soon."
+    },
+    "en_0206": {
+      "type": "headline",
+      "input_original": "Egypt says 3,000-year-old bracelet was stolen and melted down",
+      "generated_joke": "\"Someone stole Egypt's ancient 3,000-year-old gold necklace – you know what that means now? They're swimming in cash... literally.\""
+    },
+    "en_0207": {
+      "type": "headline",
+      "input_original": "Epic Mercury comeback evens Lynx series; Wilson stars in Aces win",
+      "generated_joke": "\"A guy just scored an epic comeback with his cat – somehow managed to get it off the couch.\""
+    },
+    "en_0208": {
+      "type": "headline",
+      "input_original": "Business Nearly a third of bosses report increase in cyber-attacks on their supply chains",
+      "generated_joke": "Bosses keep complaining about attacks from China – figuratively and literally now apparently."
+    },
+    "en_0209": {
+      "type": "headline",
+      "input_original": "I cut up 15 bike locks to find the best in the US. Here are my favorites",
+      "generated_joke": "\"I've got a friend with an awesome collection of bike locks – he's been cutting them open one by one.\""
+    },
+    "en_0210": {
+      "type": "headline",
+      "input_original": "How a bet landed Abraham Lincoln in the Wrestling Hall of Fame",
+      "generated_joke": "Abraham Lincoln was so bad at being president he's better known today as Mr Wrestlepants – somehow a legendary loser qualified him straight away for wrestling hall fame."
+    },
+    "en_0211": {
+      "type": "headline",
+      "input_original": "Canadian writer David Szalay shortlisted for 2025 Booker Prize",
+      "generated_joke": "David Szalay getting nominated for the Booker Prize means someone's grandma is now recommending books from Canada again."
+    },
+    "en_0212": {
+      "type": "headline",
+      "input_original": "Highest UK government borrowing in August for five years",
+      "generated_joke": "The British government borrowed so much last month it's like I'm there – making ends meet by selling my furniture again this week."
+    },
+    "en_0213": {
+      "type": "headline",
+      "input_original": "New hand luggage liquid rules in force at Dublin Airport",
+      "generated_joke": "Dublin airport now requires you to explain what's in your shampoo bottle like it's your relationship history."
+    },
+    "en_0214": {
+      "type": "headline",
+      "input_original": "Was it worth it?': BBC correspondents assess Trump's state visit",
+      "generated_joke": "Some guy went all the way across the pond for dinner with his mother-in-law – Donald Trump got sent over there and we're still wondering was it worth it?"
+    },
+    "en_0215": {
+      "type": "headline",
+      "input_original": "‘The Fate of Ophelia’ music video premieres online ",
+      "generated_joke": "Some rich person's mediocre girlfriend made an emo album and now there’s an eight-minute video about it called “The Fate of Ophelia.”"
+    },
+    "en_0216": {
+      "type": "headline",
+      "input_original": "France’s prime minister resigns less than a month after appointment",
+      "generated_joke": "\"A French politician resigned recently – I guess'short-lived romance' isn't just an idiomatic phrase.\""
+    },
+    "en_0217": {
+      "type": "headline",
+      "input_original": "Harry follows in Diana’s footsteps as he joins new Aids campaign",
+      "generated_joke": "It looks like Prince Harry decided to go viral... again – this time with AIDS awareness instead of his marriage news."
+    },
+    "en_0218": {
+      "type": "headline",
+      "input_original": "Syrians vote in the first parliamentary election since Assad’s fall, in photos",
+      "generated_joke": "In Syria's parliament election, voters picked representatives – mainly by taking pictures with them instead of voting out incumbents."
+    },
+    "en_0219": {
+      "type": "headline",
+      "input_original": "Strikes and protests roil France, pitting the streets against Macron and his new prime minister",
+      "generated_joke": "It seems like being French right now involves picketing either your job – if you're a citizen – or our president's face – regardless of where you live."
+    },
+    "en_0220": {
+      "type": "headline",
+      "input_original": "When does trying to have a healthier baby become eugenics-y?",
+      "generated_joke": "Trying to pick out healthy babies from sperm donors sounds like the fertility equivalent of attending an auction where you're bidding 'firm but not too firm'."
+    },
+    "en_0221": {
+      "type": "headline",
+      "input_original": "Travel‘Immortalised by Monet’: the enduring seaside charm of Trouville, Normandy",
+      "generated_joke": "I'm reading about this seaside town called Trouville and I realized it's famous thanks to some guy named Claude – apparently his watercolor skills immortalized its beaches, meaning if you're ever there and can't remember anything else about your trip, you'll know someone painted what looks vaguely like it."
+    },
+    "en_0222": {
+      "type": "headline",
+      "input_original": "Trump says TV networks opposed to him should 'maybe' lose licence",
+      "generated_joke": "The president said news stations opposing his views might lose licences – I guess that's what they mean by equal airtime these days."
+    },
+    "en_0223": {
+      "type": "headline",
+      "input_original": "Easy Mode Get an easy version of one of the hardest crossword puzzles of the week.",
+      "generated_joke": "Now you can conquer crosswords - unless the answer is 'help'."
+    },
+    "en_0224": {
+      "type": "headline",
+      "input_original": "Nations ratify the world’s first treaty to protect international waters",
+      "generated_joke": "Governments got together and said, \"You know what would really sink our economies? If all those cruise ships started paying royalties.\""
+    },
+    "en_0225": {
+      "type": "headline",
+      "input_original": "Americans are socialising less - here’s why that’s worrying Derek Thompson talks about stark declines in the amount of time Americans spend at parties with friends. See more",
+      "generated_joke": "It turns out Americans aren't attending as many parties these days – but honestly, we're probably saving up our energy so we can complain about it over video calls instead."
+    },
+    "en_0226": {
+      "type": "headline",
+      "input_original": "Democrats are becoming a force in traditionally conservative The Villages",
+      "generated_joke": "It turns out some Republicans' grandmas live in Florida – and also vote."
+    },
+    "en_0227": {
+      "type": "headline",
+      "input_original": "Man arrested in connection with cyber-attack on airports",
+      "generated_joke": "Some guy got busted for hacking airports – now I guess he won't get any frequent flyer miles."
+    },
+    "en_0228": {
+      "type": "headline",
+      "input_original": "The Eagles got away with a penalty on a tush push against the Chiefs, NFL admits",
+      "generated_joke": "NFL officials admitted the Eagles sneaked one past them – literally by getting an extra down due to unsportsmanlike conduct involving butt pushing."
+    },
+    "en_0229": {
+      "type": "headline",
+      "input_original": "As part of reforms, SafeSport seeks to improve communication on potential for long cases",
+      "generated_joke": "Some organization created by Congress wants better communication about really long court cases – basically saying what everyone already knew except now it's official and taking longer than expected wasn't your bad luck after all."
+    },
+    "en_0230": {
+      "type": "headline",
+      "input_original": "‘Directors would be like: this is the Asian part’: Slow Horses’ Christopher Chung on battling to become a leading man",
+      "generated_joke": "There's an actor trying really hard to get cast as lead roles – I guess some movies still want one non-Anglo person in them for diversity credits."
+    },
+    "en_0231": {
+      "type": "headline",
+      "input_original": "The Evening Catch up on big news, and wind down to end your day.",
+      "generated_joke": "People usually spend their evenings catching up on news so we can all commiserate about what terrible things happened today while eating Cheetos."
+    },
+    "en_0232": {
+      "type": "headline",
+      "input_original": "FilmRiff Raff review – star-stuffed crime comedy with Bill Murray, Jennifer Coolidge and Ed Harris",
+      "generated_joke": "I saw this movie where it's like every celebrity you've ever heard of was stuffed into one film except somehow Bill Murray still managed to steal all his scenes... I think that's called acting."
+    },
+    "en_0233": {
+      "type": "headline",
+      "input_original": "Mysterious planet is gobbling 6 billion tons of gas and dust a second",
+      "generated_joke": "Some planet out there is eating like 12 billion tons per second, probably trying to pay off student loans."
+    },
+    "en_0234": {
+      "type": "headline",
+      "input_original": "A moment that changed meI told my dad I was queer – and he said he found it hard to love me",
+      "generated_joke": "My coming-out story's kinda weird - turns out you can't come out if your parent doesn't know you're closeted."
+    },
+    "en_0235": {
+      "type": "headline",
+      "input_original": "As Taylor Swift’s frenemies decode her latest album for shade – music journalist Jenn Gannon gives us her view.",
+      "generated_joke": "Taylor Swift's friends think every song is about them; I'm pretty sure my aunt thinks every song by Hall and Oates was written specifically with her ex-husband in mind."
+    },
+    "en_0236": {
+      "type": "headline",
+      "input_original": "Bills secure 31-21 win over Dolphins for 'Thursday Night Football'",
+      "generated_joke": "\"There's something uniquely American about playing football and paying your cable bill on Thursday nights.\""
+    },
+    "en_0237": {
+      "type": "headline",
+      "input_original": "Rite Aid closes all of its stores after filing for bankruptcy",
+      "generated_joke": "Rite Aid filed for bankruptcy and closed all its stores – basically what happens if your pharmacy degree from WebMD isn't doing well either."
+    },
+    "en_0238": {
+      "type": "headline",
+      "input_original": "Calgary Flames say 'no' to bringing Dillon Dube back to the team",
+      "generated_joke": "Local hockey fans were thrilled when Calgary Flames said no to Dillon Dube coming back – it's like they're still allowed to leave town without anyone wanting them to stay longer than necessary."
+    },
+    "en_0239": {
+      "type": "headline",
+      "input_original": "A toast to tradition in Japan's sake capital",
+      "generated_joke": "In Japan's sake capital, you can get drunk and yell about preserving old traditions – classic tourism."
+    },
+    "en_0240": {
+      "type": "headline",
+      "input_original": "Just before shutdown, most Americans wanted health insurance tax credits extended, KFF poll finds",
+      "generated_joke": "Most Americans thought healthcare sounded free until they heard about taxes."
+    },
+    "en_0241": {
+      "type": "headline",
+      "input_original": "The biggest stories of our time, in 20 minutes a day.",
+      "generated_joke": "People say you can get all the news in under an hour these days – but honestly, if I had to listen to CNN for two hours, something's going wrong somewhere else.\""
+    },
+    "en_0242": {
+      "type": "headline",
+      "input_original": "This is, objectively, the worst pasta shape",
+      "generated_joke": "\"Some experts claim there's such thing as an 'objectively bad' pasta shape – mainly from people with spaghetti anxiety.\""
+    },
+    "en_0243": {
+      "type": "headline",
+      "input_original": "Why history's 'most controversial' queen was so hated",
+      "generated_joke": "She must've started with really low expectations if being remembered as history’s most loathed monarch takes all this work."
+    },
+    "en_0244": {
+      "type": "headline",
+      "input_original": "I work in the maternity unit where I was born - with the midwife who cared for me",
+      "generated_joke": "\"I'm having an identity crisis – I think my job might have predated our family reunions.\""
+    },
+    "en_0245": {
+      "type": "headline",
+      "input_original": "Scientists pinpoint the brain's internal mileage clock",
+      "generated_joke": "It turns out your brain will finally start depreciating after all those late-night Netflix binges."
+    },
+    "en_0246": {
+      "type": "headline",
+      "input_original": "Regulators approve disputed $6.2B takeover of Minnesota Power by investment group",
+      "generated_joke": "Some regulator decided six billion dollars was fine – mostly so we can give them another regulatory job later when it goes wrong."
+    },
+    "en_0247": {
+      "type": "headline",
+      "input_original": "School district says it will pursue legal action after superintendent detained by ICE",
+      "generated_joke": "It turns out school districts can get arrested even when they're already in detention – by immigration authorities and now also the courts."
+    },
+    "en_0248": {
+      "type": "headline",
+      "input_original": "Manchán Magan's final interview",
+      "generated_joke": "\"I'm guessing Manchán Magan's last question was 'Who am I interviewing now'?\""
+    },
+    "en_0249": {
+      "type": "headline",
+      "input_original": "Clean Everything Step-by-step advice on how to keep everything in your home squeaky clean.",
+      "generated_joke": "I've got step-by-step instructions on keeping my house spotless – but honestly, I still can't find where dust goes after I vacuum it."
+    },
+    "en_0250": {
+      "type": "headline",
+      "input_original": "Optus customers left angry after more failed triple-0 calls Optus customers have come forward to report more cases of triple-0 calls failing outside the embattled telcos previously admitted outages.",
+      "generated_joke": "It seems like you're having trouble calling an ambulance – probably because your phone company can't quite dial it up... literally."
+    },
+    "en_0251": {
+      "type": "headline",
+      "input_original": "WellnessSign up for Well Actually: a free weekly newsletter about health and wellness",
+      "generated_joke": "I signed up for my aunt's Wellness newsletter, but she told me it’s called 'Well Actually'. Guess you had to live through an adult child relationship to get this kind of branding honesty."
+    },
+    "en_0252": {
+      "type": "headline",
+      "input_original": "Blind dog known as the ‘hot mess express’ lights up the internet after being put up for adoption",
+      "generated_joke": "There's a blind dog going viral online called the 'Hot Mess Express,' and honestly it describes its owner's dating profile pretty well too – except instead of swiping left, you're putting them down."
+    },
+    "en_0253": {
+      "type": "headline",
+      "input_original": "What tax, which could bring in €213m, won't be in Budget 2026?",
+      "generated_joke": "\"A proposed tax worth €213 million was left out of Ireland's budget, so I guess we'll all get one free – no wonder it wasn't included.\""
+    },
+    "en_0254": {
+      "type": "headline",
+      "input_original": "Eby criticizes Smith's pipeline push, says feds' treatment of B.C. ferry passengers unfair",
+      "generated_joke": "\"Some politician criticized another guy's plan and said treating BC ferry riders unfairly was unacceptable – meanwhile treating politicians like regular humans remains completely out of bounds.\""
+    },
+    "en_0255": {
+      "type": "headline",
+      "input_original": "Why treating back pain might require more coaching & less fixing",
+      "generated_joke": "They say treating your back hurts requires more therapy and fewer hacks – I guess it's about finding spine."
+    },
+    "en_0256": {
+      "type": "headline",
+      "input_original": "Touch grass: How Gen Z stopped going outside and why it matters",
+      "generated_joke": "Gen-Zers aren't leaving home much anymore – literally, until you remind them there's something beyond their phones called 'grass.'"
+    },
+    "en_0257": {
+      "type": "headline",
+      "input_original": "6 fall fashion trends you'll be seeing everywhere this season",
+      "generated_joke": "Fashion magazines are saying there will be six big trends this fall – we're guessing number seven might've been 'having money'."
+    },
+    "en_0258": {
+      "type": "headline",
+      "input_original": "Pope names successor to New Orleans archbishop",
+      "generated_joke": "There's an announcement – it seems there was one more Catholic bishop than expected."
+    },
+    "en_0259": {
+      "type": "headline",
+      "input_original": "Why Salah has become a 'little problem' for Liverpool MOTD pundit Danny Murphy explains why Mohamed Salah's lack of defensive work has become an issue for Liverpool down their right flank.",
+      "generated_joke": "Liverpool signed Salah as this prolific goal-scorer and now he’s a little problem when we need him to stop others from scoring."
+    },
+    "en_0260": {
+      "type": "headline",
+      "input_original": "Daniel Ek, the Spotify founder who wants to stay in control",
+      "generated_joke": "It looks like there's some music mogul who founded Spotify – guess you can call him Daniel Ek-management now."
+    },
+    "en_0261": {
+      "type": "headline",
+      "input_original": "Cyberattacks Upset British Life, Disrupting Car Production and Grocery Access Three of Britain’s biggest brands were severely disrupted this year, bringing pain to the lives of customers, workers, suppliers and government officials. 4 min read Phil Noble/Reuters",
+      "generated_joke": "British cybersecurity can best be described as 'disrupted' – when hackers bring down your major companies you know something's wrong with customer service..."
+    },
+    "en_0262": {
+      "type": "headline",
+      "input_original": "Dreame’s L40s robot vacuums are a ticket to easy, pro-level cleaning",
+      "generated_joke": "People pay hundreds of dollars for what essentially amounts to an automated roommate with slightly better suction skills than your high school intern."
+    },
+    "en_0263": {
+      "type": "headline",
+      "input_original": "The picture essay‘I fell in a deep puddle running from police’: photographing London’s underground raves",
+      "generated_joke": "Some kid ran from the cops and ended up partying in an underground rave instead – priorities are clearly aligned with his parents' homeowner insurance policy."
+    },
+    "en_0264": {
+      "type": "headline",
+      "input_original": "Live Nation and Ticketmaster accused of allowing ticket brokers to rake in millions from resales",
+      "generated_joke": "Ticket sales - where you pay full price and someone else gets paid twice as much just for standing there."
+    },
+    "en_0265": {
+      "type": "headline",
+      "input_original": "Impact of Trump tariffs is beginning to show in US consumer prices",
+      "generated_joke": "It turns out America's wallets can now measure the impact of 'America First'."
+    },
+    "en_0266": {
+      "type": "headline",
+      "input_original": "How wild food enthusiasts are reconnecting with nature",
+      "generated_joke": "Some people think reconnecting with nature means giving up Wi-Fi and Netflix – those 'wild' folks want it all without showers first."
+    },
+    "en_0267": {
+      "type": "headline",
+      "input_original": "Egypt fears missing pharaoh’s bracelet has been melted down for gold",
+      "generated_joke": "\"I guess archaeologists are now melting down ancient relics so badly we can't even sell them anymore.\""
+    },
+    "en_0268": {
+      "type": "headline",
+      "input_original": "Not sci-fi anymore': James Cameron's AI warning",
+      "generated_joke": "Some filmmaker warned us about too much reliance on artificial intelligence – probably right before his AI assistant wrote this warning and fired him."
+    },
+    "en_0269": {
+      "type": "headline",
+      "input_original": "Cost cutting' hasn’t just led to job losses, it’s led to loss of life: analyst",
+      "generated_joke": "There's cost-cutting and then there's just trying not to spend money after someone quits paying your health insurance."
+    },
+    "en_0270": {
+      "type": "headline",
+      "input_original": "Byron Bay's holiday rental cap yields mixed results",
+      "generated_joke": "They implemented a rent limit in Byron Bay but got mixed results – it either means no one wanted to live there or everyone secretly wants an empty house to practice owning the beach by themselves quietly with fewer tourists complaining about them being too loud outside."
+    },
+    "en_0271": {
+      "type": "headline",
+      "input_original": "Father delivers own baby on doorstep of Texas hospital",
+      "generated_joke": "\"I'm pretty sure it's now illegal for dads-to-be to fly and hospitals can deduct delivery costs.\""
+    },
+    "en_0272": {
+      "type": "headline",
+      "input_original": "Aces 91-78 win over Mercury takes them to 2-0 WNBA Finals lead",
+      "generated_joke": "They're 2-0 in the finals already – probably had some tricks up their sleeve, unless 'tricks' means hitting three-pointer after every timeout."
+    },
+    "en_0273": {
+      "type": "headline",
+      "input_original": "A year of otherworldly images from NASA's Webb Telescope",
+      "generated_joke": "NASA released a bunch of incredible pictures taken by its super expensive space telescope – it looks like aliens already had the Instagram account covered."
+    },
+    "en_0274": {
+      "type": "headline",
+      "input_original": "The 15 most banned books in U.S. schools",
+      "generated_joke": "\"Apparently American students can't handle even more than 'To Kill A Mockingbird.'"
+    },
+    "en_0275": {
+      "type": "headline",
+      "input_original": "Is cheese the new reason to travel?",
+      "generated_joke": "Travel agents now suggest you visit places where locals understand why you're eating all alone during your trip."
+    },
+    "en_0276": {
+      "type": "headline",
+      "input_original": "Abu Dhabi Property Giant Bets on Cheaper Homes, Private Credit",
+      "generated_joke": "Some real estate company thinks you can sell houses cheaper by lending money privately, like I'm doing my friend a solid with no interest – sounds like any housing market ever."
+    },
+    "en_0277": {
+      "type": "headline",
+      "input_original": "The first supermoon of the year is approaching. Here’s what to know",
+      "generated_joke": "People get excited about the'supermoon', but honestly it's just another excuse for your aunt to send you a full moon calendar."
+    },
+    "en_0278": {
+      "type": "headline",
+      "input_original": "Gordon Ramsay’s Bel Air home visited by police as chef becomes latest victim of swatting prank",
+      "generated_joke": "Some guy's house looks like Gordon Ramsay lives there and he called it in thinking his meals weren't edible enough. Now our tax dollars pay him to yell at an empty kitchen through loudspeakers."
+    },
+    "en_0279": {
+      "type": "headline",
+      "input_original": "We weren't prepared for the online hate when we shared how we plan to retire by 35",
+      "generated_joke": "\"My wife and I had this crazy dream about retiring young – basically moving from adulting to golfing – but it turns out social media hates our dreams more than my dad hated mine.\""
+    },
+    "en_0280": {
+      "type": "headline",
+      "input_original": "You may have asthma and not even know. Here's why",
+      "generated_joke": "\"You might have asthma without knowing it – probably due to years of silently suffering through your sibling’s snoring.\""
+    },
+    "en_0281": {
+      "type": "headline",
+      "input_original": "Moment man narrowly avoids being hit by car in petrol station crash",
+      "generated_joke": "Some guy almost got run over by a car while he was getting gas and now we're all paying attention – what's his superpower again?"
+    },
+    "en_0282": {
+      "type": "headline",
+      "input_original": "B.C. sushi chef refuses to provide extra soy sauce — even for $1K",
+      "generated_joke": "I guess some chefs think there's an art form to being cheap – like charging you a thousand bucks to leave off the toppings."
+    },
+    "en_0283": {
+      "type": "headline",
+      "input_original": "Why urban Scotland must plant 2.5 million saplings for 'tree equality'",
+      "generated_joke": "They're trying to achieve tree equality – sounds like a bunch of forest folks playing Robin Hood with branches."
+    },
+    "en_0284": {
+      "type": "headline",
+      "input_original": "McLaughlin-Levrone says hurdles-400 double is possible. But would she want to do it?",
+      "generated_joke": "I've got someone saying she can run both hurdles and track events – probably just trying to find an excuse to avoid running more than three times during her weekly date night with accountability."
+    },
+    "en_0285": {
+      "type": "headline",
+      "input_original": "Netflix is going all-in on its ‘Peaky Blinders’ sequel with a two-season order",
+      "generated_joke": "Some streaming service wants us to believe we need two seasons of 'Peaky Blinders', but honestly, I'm still waiting for one season where Tommy Shelby wears something else besides a suit and looks like he didn't roll out of bed."
+    },
+    "en_0286": {
+      "type": "headline",
+      "input_original": "French Prime Minister Sébastien Lecornu resigns after less than a month",
+      "generated_joke": "\"Some French politician resigned already – I guess France doesn't care about tenure.\""
+    },
+    "en_0287": {
+      "type": "headline",
+      "input_original": "Olive Garden says it's testing smaller portion menu options",
+      "generated_joke": "It looks like Olive Garden wants to help us eat less pasta while still feeling regretful about eating more pasta - by giving you slightly-less-bad versions."
+    },
+    "en_0288": {
+      "type": "headline",
+      "input_original": "Costa Rica halts all flights after radar failure",
+      "generated_joke": "They're grounding every flight in Costa Rica due to radar issues – now they'll really know when someone's coming."
+    },
+    "en_0289": {
+      "type": "headline",
+      "input_original": "Child migrants sent to Australia after WWII form bonds for life",
+      "generated_joke": "After World War II, child refugees were shipped off to weird places – like my aunt's house and also Australia apparently, where some kids became BFFs till this day."
+    },
+    "en_0290": {
+      "type": "headline",
+      "input_original": "Congress asks if Boar's Head deli meat plant tied to outbreak will be fit to reopen",
+      "generated_joke": "\"Congress asked if a Boar’s Head factory was safe to reopen after an outbreak - good news: cured meats aren’t contagious.\""
+    },
+    "en_0291": {
+      "type": "headline",
+      "input_original": "Vivienne Westwood brings beauty from chaos and dying sunflowers in Paris",
+      "generated_joke": "Some artist brought beautiful arrangements made out of dead flowers – sounds fancy until you realize someone else had to pick them first."
+    },
+    "en_0292": {
+      "type": "headline",
+      "input_original": "MediaDisney hikes streaming prices as Kimmel suspension fuels backlash",
+      "generated_joke": "\"Looks like Disney went from 'Happiest Place On Earth' to your average cable provider.\""
+    },
+    "en_0293": {
+      "type": "headline",
+      "input_original": "The health issues that could be an early sign of lung cancer",
+      "generated_joke": "So you're worried about signs of lung cancer - mainly so you can pretend you quit smoking years ago?"
+    },
+    "en_0294": {
+      "type": "headline",
+      "input_original": "The Air Quality Index and how to use it, explained",
+      "generated_joke": "An expert explained what the air quality index is – now we know why our lungs feel so good when the government tells us it's safe outside."
+    },
+    "en_0295": {
+      "type": "headline",
+      "input_original": "Kamala Harris' commentary on Democrats jump-starts the 2028 presidential contest",
+      "generated_joke": "\"Apparently Kamala Harris already thinks she's running in '28 – I guess it's when politicians start campaigning before you're done paying off your student loans.\""
+    },
+    "en_0296": {
+      "type": "headline",
+      "input_original": "Buyout Firm EQT Anoints Asia-Based Salata as New Chairperson",
+      "generated_joke": "Some buyout firm chose an Asian woman named Salata to run everything now – clearly diversity efforts reached all-time highs when everyone decided it was okay to hand your company over to someone with almost the same name as the salad."
+    },
+    "en_0297": {
+      "type": "headline",
+      "input_original": "Booker prize‘Brilliantly human’: Kiran Desai and David Szalay make Booker prize shortlist",
+      "generated_joke": "The Booker Prize nominees call themselves 'brilliantly human', probably as an excuse for writing characters that accurately reflect society – with more flaws than friends."
+    },
+    "en_0298": {
+      "type": "headline",
+      "input_original": "Eilish Fisher: \"If ghosts exist, what else could exist?\" ",
+      "generated_joke": "There's this one lady named Eilish Fisher who thinks if ghosts can haunt your grandma’s basement then pretty much anything weird exists – aliens made out of cheese and zombies playing trombones aren't entirely impossible after all."
+    },
+    "en_0299": {
+      "type": "headline",
+      "input_original": "Canadian men jump to record No. 26 in FIFA rankings",
+      "generated_joke": "Canada's national pride isn't winning championships but somehow being slightly better than Guatemala this month."
+    },
+    "en_0300": {
+      "type": "headline",
+      "input_original": "Bonhomie, kind words - but what did Trump’s meeting with Starmer add up to? AP explains",
+      "generated_joke": "Some world leader met some UK guy and it added up to an explanation from Associated Press – I guess even politicians need Wikipedia sometimes."
+    },
+    "en_0301": {
+      "type": "headline",
+      "input_original": "KPop Demon Hunters' joins Fortnite with new characters and fan games",
+      "generated_joke": "Fortnite just welcomed K-Pop groups as playable characters - now gamers can fight alongside BTS's choreographed dances, but sadly still lose to the dance battle challenge modes themselves."
+    }
+  }
+}
